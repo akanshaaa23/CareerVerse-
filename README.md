@@ -22,21 +22,10 @@ Career Verse is an AI-powered career guidance platform designed to help students
 - JavaScript
 - Local Storage
 - Responsive Web Design
-
-## 📸 Screenshots
-
-Add project screenshots here.
-
 ## 🚀 Getting Started
-
-1. Clone the repository
-
-```bash
-git clone https://github.com/your-username/career-verse.git
 Open the project folder
 cd career-verse
 Run the project
-
 Simply open index.html in your browser.
 
 🎯 Purpose
